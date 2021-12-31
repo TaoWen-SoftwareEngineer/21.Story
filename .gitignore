@@ -1,0 +1,3 @@
+secrets.txt
+
+#ignore secret.txt file when uploading to GitHub
